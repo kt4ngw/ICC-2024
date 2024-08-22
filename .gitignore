@@ -1,0 +1,5 @@
+result/
+data
+plot
+__pycache__
+*.txt
